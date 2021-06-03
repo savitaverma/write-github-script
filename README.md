@@ -4,8 +4,9 @@
 
 [Link to Microsoft Learn](https://docs.microsoft.com/learn)
 
-1. `oktokit\rest.js`
-2. `github.context.issues.createCommand`
+- [X] `oktokit\rest.js`
+- [X] `github.context.issues.createCommand`
+- []  TBD
 
 `````
 var first = 1;
@@ -19,4 +20,3 @@ We are so excited to help you continue learning GitHub Actions through Learning 
 ---
 
 Head over the the open issue in this repository to get started :tada:
-
