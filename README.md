@@ -1,4 +1,4 @@
-# GitHub Actions: Using >GitHub Script!
+# GitHub Actions: Using GitHub Script!
 
 ![Image](https://docs.microsoft.com/learn/azure-devops/shared/media/mara.png)
 
@@ -6,7 +6,7 @@
 
 1. First
 2. Second
-3. Third
+3. > Third
 
 
 We are so excited to help you continue learning GitHub Actions through Learning Lab. <br/> This course will show you how to use an aciton called `GitHub Script` to quickly interact with the GitHub API directly in your workflow files!
