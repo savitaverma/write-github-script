@@ -5,7 +5,7 @@
 [Link to Microsoft Learn](https://docs.microsoft.com/learn)
 
 1. `oktokit\rest.js`
-2. 'github.context.issues.createCommand`
+2. `github.context.issues.createCommand`
 3. > etc
 
 
