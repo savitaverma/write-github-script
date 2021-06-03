@@ -6,7 +6,7 @@
 
 - [X] `oktokit\rest.js`
 - [X] `github.context.issues.createCommand`
-- []  TBD
+- [ ]  TBD
 
 `````
 var first = 1;
