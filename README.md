@@ -1,6 +1,6 @@
 # GitHub Actions: Using GitHub Script!
 
-![Link an image](https://docs.microsoft.com/learn/azure-devops/shared/media/mara.png)
+!(https://docs.microsoft.com/learn/azure-devops/shared/media/mara.png)
 
 [Link to Microsoft Learn](https://docs.microsoft.com/learn)
 
