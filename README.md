@@ -6,7 +6,11 @@
 
 1. `oktokit\rest.js`
 2. `github.context.issues.createCommand`
-3. > etc
+3. `````
+4. var first = 1;
+5. var second = 2;
+6. var sum = first + second;
+7. print(sum);
 
 
 We are so excited to help you continue learning GitHub Actions through Learning Lab. <br/> This course will show you how to use an aciton called `GitHub Script` to quickly interact with the GitHub API directly in your workflow files!
