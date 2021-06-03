@@ -1,4 +1,4 @@
-*GitHub Actions: Using GitHub Script!*
+### *GitHub Actions: Using GitHub Script!*
 
 We are so excited to help you continue learning GitHub Actions through Learning Lab.  This course will show you how to use an aciton called `GitHub Script` to quickly interact with the GitHub API directly in your workflow files!
 
