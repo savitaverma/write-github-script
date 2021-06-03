@@ -15,7 +15,7 @@ var sum = first + second;
 print(sum);
 ``````
 
-We are so excited to help you continue learning GitHub Actions through Learning Lab. <br/> This course will show you how to use an aciton called `GitHub Script` to quickly <u>interact</u> with the GitHub API directly in your workflow files!
+We are so excited to help you continue learning GitHub Actions through Learning Lab. <br/> This course will show you how to use an aciton called `GitHub Script` to quickly <strong>interact</strong> with the GitHub API directly in your workflow files!
 
 \*\_
 
