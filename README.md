@@ -1,4 +1,4 @@
-# GitHub Actions: Using > GitHub Script!
+# GitHub Actions: Using >GitHub Script!
 
 ![Image](https://docs.microsoft.com/learn/azure-devops/shared/media/mara.png)
 
