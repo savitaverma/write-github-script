@@ -8,10 +8,10 @@
 2. `github.context.issues.createCommand`
 
 `````
-4. var first = 1;
-5. var second = 2;
-6. var sum = first + second;
-7. print(sum);
+var first = 1;
+var second = 2;
+var sum = first + second;
+print(sum);
 ``````
 
 We are so excited to help you continue learning GitHub Actions through Learning Lab. <br/> This course will show you how to use an aciton called `GitHub Script` to quickly interact with the GitHub API directly in your workflow files!
